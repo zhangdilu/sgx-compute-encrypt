@@ -1,3 +1,3 @@
 # sgx-compute-encrypt
-cd encrypt
+cd encrypt  
 ./test
